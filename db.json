@@ -1,20 +1,15 @@
 {
-    "clientes": [
-        {
-            "id": 1,
-            "nombre": "Ale",
-            "apellidos": "Coca",
-            "ci": 1111111111,
-            "telefono": 22222222
-        }
-    ],
     "pedidos": [
         {
             "id": 1,
             "nroBotellones": 5,
             "direccionEnvio": "Direccion A1",
             "zonaEnvio": "Zona A",
-            "clienteId": 1
+            "cliente": {
+                "nombre": "Ale",
+                "apellidos": "Coca",
+                "ci": 1111111111
+            }
 
         }
     ]
