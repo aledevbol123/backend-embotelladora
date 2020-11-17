@@ -28,6 +28,11 @@
             "id":"3",
             "nombre":"Zona C",
             "descripcion":"Comprende desde la calle 5 hasta la 6"
+        },
+        {
+            "id":"4",
+            "nombre":"Zona D",
+            "descripcion":"Comprende desde la calle 5 hasta la 6"
         }
     ],
     "productos":[
