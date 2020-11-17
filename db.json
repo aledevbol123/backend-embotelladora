@@ -1,0 +1,16 @@
+{
+  "pedidos": [
+    {
+      "id": 1,
+      "cliente_id": 2,
+      "zona_id": 2,
+      "total": "60.00",
+      "estado": "NUEVO",
+      "entregado_en": null,
+      "created_at": "2020-11-15T11:07:11.280Z",
+      "updated_at": null,
+      "createdAt": "2020-11-15T11:07:11.280Z",
+      "updatedAt": null
+    }
+  ]
+}
