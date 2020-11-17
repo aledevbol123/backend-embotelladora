@@ -1,16 +1,50 @@
 {
-  "pedidos": [
-    {
-      "id": 1,
-      "cliente_id": 2,
-      "zona_id": 2,
-      "total": "60.00",
-      "estado": "NUEVO",
-      "entregado_en": null,
-      "created_at": "2020-11-15T11:07:11.280Z",
-      "updated_at": null,
-      "createdAt": "2020-11-15T11:07:11.280Z",
-      "updatedAt": null
-    }
-  ]
+    "pedidos":[
+        {
+            "id":1,
+            "cliente_id":2,
+            "zona_id":2,
+            "total":"60.00",
+            "estado":"NUEVO",
+            "entregado_en":null,
+            "created_at":"2020-11-15T11:07:11.280Z",
+            "updated_at":null,
+            "createdAt":"2020-11-15T11:07:11.280Z",
+            "updatedAt":null
+        }
+    ],
+    "zonas":[
+        {
+            "id":"1",
+            "nombre":"Zona A",
+            "descripcion":"Comprende desde la calle 1 hasta la 2"
+        },
+        {
+            "id":"2",
+            "nombre":"Zona B",
+            "descripcion":"Comprende desde la calle 3 hasta la 4"
+        },
+        {
+            "id":"3",
+            "nombre":"Zona C",
+            "descripcion":"Comprende desde la calle 5 hasta la 6"
+        }
+    ],
+    "productos":[
+        {
+            "id":"1",
+            "codigo":"p-001",
+            "nombre":"Producto A"
+        },
+        {
+            "id":"2",
+            "codigo":"p-001",
+            "nombre":"Producto B"
+        },
+        {
+            "id":"3",
+            "codigo":"p-001",
+            "nombre":"Producto C"
+        }
+    ]
 }
