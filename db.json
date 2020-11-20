@@ -15,22 +15,22 @@
     ],
     "zonas":[
         {
-            "id":"1",
+            "id":1,
             "nombre":"Zona A",
             "descripcion":"Comprende desde la calle 1 hasta la 2"
         },
         {
-            "id":"2",
+            "id":2,
             "nombre":"Zona B",
             "descripcion":"Comprende desde la calle 3 hasta la 4"
         },
         {
-            "id":"3",
+            "id":3,
             "nombre":"Zona C",
             "descripcion":"Comprende desde la calle 5 hasta la 6"
         },
         {
-            "id":"4",
+            "id":4,
             "nombre":"Zona D",
             "descripcion":"Comprende desde la calle 5 hasta la 6"
         }
